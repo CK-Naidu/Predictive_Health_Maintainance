@@ -5,11 +5,15 @@ This repository contains the implementation of machine learning models to predic
 -----
 # Repository Structure
 
-── decision_tree_random_forest_scratch.ipynb     # Full implementation from scratch
-── decision_tree_random_forest_sklearn.ipynb     # Same models using scikit-learn
-── decision_tree_pruning.ipynb                   # Decision tree with reduced error pruning
-── predictive_maintenance_dataset.csv            # Input dataset
-── README.md                                     # Project documentation
+── decision_tree_random_forest_scratch.ipynb # Full implementation from scratch
+
+── decision_tree_random_forest_sklearn.ipynb # Same models using scikit-learn
+
+── decision_tree_pruning.ipynb               # Decision tree with reduced error pruning
+
+── predictive_maintenance_dataset.csv        # Input dataset
+
+── README.md                                 # Project documentation
 
 ----
 
